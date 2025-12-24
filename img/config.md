@@ -4,7 +4,7 @@ const config = {
   metaData:{
     title: '晓梦小妮的个人主页🎉',
     description: '欢迎来到晓梦小妮的奇妙世界！',
-    keywords: 'Leleo,leleo,个人主页,个人网站',
+    keywords: '晓梦小妮,晓梦小妮,个人主页,个人网站',
     icon: '/favicon.ico'   //网页图标，支持外链
   },
 
