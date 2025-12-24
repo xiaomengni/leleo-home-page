@@ -2,28 +2,28 @@
 const config = {
   //网页元数据
   metaData:{
-    title: 'Leleo的个人主页🎉',
-    description: '欢迎来到Leleo的奇妙世界！',
+    title: '晓梦小妮的个人主页🎉',
+    description: '欢迎来到晓梦小妮的奇妙世界！',
     keywords: 'Leleo,leleo,个人主页,个人网站',
     icon: '/favicon.ico'   //网页图标，支持外链
   },
 
   avatar: "/img/avatar.jpg", // 头像
-  welcometitle: "Hi, I'm Leleo", // 标题
+  welcometitle: "Hi, I'm 晓梦小妮", // 标题
 
   // 颜色配置
   color: {
-    themecolor: "#FFFFFF", // 主题颜色，推荐趋于亮白可带有轻微色调，例： #D1FFEC
-    welcometitlecolor: "#FFFFFF", // 标题颜色 例： #7BFFC9
-    turntablecolor1: "#FFFF00",  // 转盘渐变色一
-    turntablecolor2: "#00FFFF"   // 转盘渐变色二
+    themecolor: #D1FFEC", // 主题颜色，推荐趋于亮白可带有轻微色调，例： #D1FFEC
+    welcometitlecolor: "#F5A9B8", // 标题颜色 例： #7BFFC9
+    turntablecolor1: "#5BCEFA",  // 转盘渐变色一
+    turntablecolor2: "#FFFFFF"   // 转盘渐变色二
   },
   
   brightness: 85, // 背景亮度 --%
   blur: 5, // 毛玻璃模糊效果
 
-  // 我的标签
-  tags : ['乐观开朗','温柔体贴','随和亲切','冷静沉着','才思敏捷','风趣幽默','刚正不阿','善解人意'],
+  // 
+  tags : ['宅若久时天然呆，呆至深处自然萌'],
 
   // 默认背景壁纸
   background: {
